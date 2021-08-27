@@ -1,0 +1,124 @@
+/* mobile  */
+
+@media (max-width: 736px) {
+    .p1 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p2 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p3 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p4 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p5 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p6 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p7 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p8 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p9 {
+        background: rgba(238, 154, 154, 0.589);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+}
+
+
+/* tablet */
+
+@media (min-width: 737px) and (max-width: 959px) {
+    .p1 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p2 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p3 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p4 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p5 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p6 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p7 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p8 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p9 {
+        background: rgba(216, 72, 72, 0.678);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+}
+
+
+/* desktop */
+
+@media (min-width: 960px) {
+    .p1 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p2 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p3 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p4 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p5 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p6 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p7 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p8 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+    .p9 {
+        background: rgb(204, 204, 204);
+        border: 1px solid rgba(88, 88, 88, 0.582);
+    }
+}
