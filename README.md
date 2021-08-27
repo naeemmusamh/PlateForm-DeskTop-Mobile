@@ -10,6 +10,6 @@ i make this project to increase me skills in HTML and CSS, it will show you the 
 
 ## Deploy Link
 
-[Live Server]()
+[Live Server](https://naeemmusamh.github.io/PlateForm-DeskTop-Mobile/)
 
 Have Fun
